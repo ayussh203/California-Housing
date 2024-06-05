@@ -1,6 +1,4 @@
-Sure, here's a detailed README description for the provided project:
 
----
 
 # Housing Price Prediction with Various Regression Models
 
@@ -102,15 +100,7 @@ plot_real_vs_predicted(Y_test, Y_lin_predict)
 generate_regression_values(linreg, X_test, Y_test)
 ```
 
-## Usage
 
-1. Clone this repository.
-2. Install the required dependencies.
-3. Run the script to train and evaluate the regression models.
-
-```bash
-python your_script_name.py
-```
 
 ## Results
 
@@ -122,4 +112,3 @@ This project demonstrates the implementation and comparison of various regressio
 
 ---
 
-This README provides a comprehensive overview of the project, detailing each step and explaining the purpose and usage of the code.
